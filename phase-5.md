@@ -12,7 +12,6 @@ sqlite3 practice.db ".read phase-5/query-3.sql"
 sqlite3 practice.db ".read phase-5/query-4.sql"
 sqlite3 practice.db ".read phase-5/query-5.sql"
 ```
-
 ## Owner's last name containing "r"
 
 Find the first owner that has a last name containing the lowercase letter "r".
